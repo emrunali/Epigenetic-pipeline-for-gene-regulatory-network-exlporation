@@ -1,0 +1,68 @@
+Gene Name,Gene Symbol,Interacting TFs,Count of Interacting TFs
+aldo-keto reductase family 1 member A1,AKR1A1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+"alcohol dehydrogenase 1A (class I), alpha polypeptide",ADH1A,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+"alcohol dehydrogenase 1B (class I), beta polypeptide",ADH1B,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+"alcohol dehydrogenase 1C (class I), gamma polypeptide",ADH1C,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+"alcohol dehydrogenase 4 (class II), pi polypeptide",ADH4,"EP300, GATA1, TAL1",3
+"alcohol dehydrogenase 5 (class III), chi polypeptide",ADH5,"EP300, GATA1, TAL1",3
+alcohol dehydrogenase 6 (class V),ADH6,"EP300, GATA1, TAL1",3
+galactose mutarotase,GALM,"EP300, GATA1, TAL1",3
+"alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide",ADH7,"EP300, GATA1, TAL1",3
+lactate dehydrogenase A like 6A,LDHAL6A,"EP300, GATA1, TAL1",3
+dihydrolipoamide S-acetyltransferase,DLAT,"RCOR1, MYB, MAFK, TCF7L2, TAL1, KDM5A, EZH2, EP300, GATA1, CHD7, SUZ12",11
+dihydrolipoamide dehydrogenase,DLD,,0
+enolase 1,ENO1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, SMARCB1, PHF8, BACH1, KDM5B, CBX3, CREB1, TBP, ELF1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",24
+enolase 2,ENO2,,0
+enolase 3,ENO3,,0
+aldehyde dehydrogenase 2 family member,ALDH2,"EP300, GATA1, TAL1",3
+aldehyde dehydrogenase 3 family member A1,ALDH3A1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+aldehyde dehydrogenase 1 family member B1,ALDH1B1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+fructose-bisphosphatase 1,FBP1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, SMARCB1, PHF8, BACH1, KDM5B, CBX3, CREB1, TBP, ELF1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",24
+aldehyde dehydrogenase 3 family member B1,ALDH3B1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+aldehyde dehydrogenase 3 family member B2,ALDH3B2,"EP300, GATA1, TAL1",3
+aldehyde dehydrogenase 9 family member A1,ALDH9A1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+aldehyde dehydrogenase 3 family member A2,ALDH3A2,"EP300, GATA1, TAL1",3
+"aldolase, fructose-bisphosphate A",ALDOA,"EP300, GATA1, TAL1",3
+"aldolase, fructose-bisphosphate B",ALDOB,"EP300, GATA1, TAL1",3
+"aldolase, fructose-bisphosphate C",ALDOC,"EP300, GATA1, TAL1",3
+glucose-6-phosphatase catalytic subunit 1,G6PC1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, SMARCB1, PHF8, BACH1, KDM5B, CBX3, CREB1, TBP, ELF1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",24
+glyceraldehyde-3-phosphate dehydrogenase,GAPDH,"EP300, GATA1, TAL1",3
+"glyceraldehyde-3-phosphate dehydrogenase, spermatogenic",GAPDHS,"EP300, GATA1, TAL1",3
+glucokinase,GCK,,0
+glucose-6-phosphate isomerase,GPI,,0
+hexokinase 1,HK1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, SMARCB1, PHF8, BACH1, KDM5B, CBX3, CREB1, TBP, ELF1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",24
+hexokinase 2,HK2,,0
+hexokinase 3,HK3,,0
+enolase 4,ENO4,,0
+lactate dehydrogenase A,LDHA,"EP300, GATA1, TAL1",3
+lactate dehydrogenase B,LDHB,,0
+lactate dehydrogenase C,LDHC,,0
+phosphoglycerate mutase family member 4,PGAM4,"EP300, GATA1, TAL1",3
+aldehyde dehydrogenase 7 family member A1,ALDH7A1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+phosphoenolpyruvate carboxykinase 1,PCK1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, SMARCB1, PHF8, BACH1, KDM5B, CBX3, CREB1, TBP, ELF1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",24
+"phosphoenolpyruvate carboxykinase 2, mitochondrial",PCK2,,0
+pyruvate dehydrogenase E1 subunit alpha 1,PDHA1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+pyruvate dehydrogenase E1 subunit alpha 2,PDHA2,"EP300, GATA1, TAL1",3
+pyruvate dehydrogenase E1 subunit beta,PDHB,,0
+"phosphofructokinase, liver type",PFKL,,0
+"phosphofructokinase, muscle",PFKM,,0
+"phosphofructokinase, platelet",PFKP,,0
+phosphoglycerate mutase 1,PGAM1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+phosphoglycerate mutase 2,PGAM2,"EP300, GATA1, TAL1",3
+phosphoglycerate kinase 1,PGK1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, SMARCB1, PHF8, BACH1, KDM5B, CBX3, CREB1, TBP, ELF1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",24
+phosphoglycerate kinase 2,PGK2,,0
+phosphoglucomutase 1,PGM1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, SMARCB1, PHF8, BACH1, KDM5B, CBX3, CREB1, TBP, ELF1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",24
+pyruvate kinase L/R,PKLR,,0
+pyruvate kinase M1/2,PKM,,0
+phosphoglucomutase 2,PGM2,,0
+acyl-CoA synthetase short chain family member 2,ACSS2,"EP300, GATA1, TAL1",3
+glucose-6-phosphatase catalytic subunit 2,G6PC2,,0
+bisphosphoglycerate mutase,BPGM,,0
+triosephosphate isomerase 1,TPI1,"RCOR1, HDAC2, FOS, GATA1, eGFP-HDAC8, MAFK, CTCF, SMARCB1, PHF8, KDM5A, KDM5B, CHD7, BACH1, CBX3, SUZ12, CREB1, TBP, ELF1, POLR2A, MXI1, BHLHE40, MYB, TCF7L2, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",31
+hexokinase domain containing 1,HKDC1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, SMARCB1, PHF8, BACH1, KDM5B, CBX3, CREB1, TBP, ELF1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",24
+ADP dependent glucokinase,ADPGK,"EP300, GATA1, TAL1",3
+acyl-CoA synthetase short chain family member 1,ACSS1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, PHF8, SMARCB1, KDM5B, BACH1, CBX3, CREB1, TBP, ELF1, TAL1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",25
+fructose-bisphosphatase 2,FBP2,,0
+lactate dehydrogenase A like 6B,LDHAL6B,"EP300, GATA1, TAL1",3
+glucose-6-phosphatase catalytic subunit 3,G6PC3,,0
+multiple inositol-polyphosphate phosphatase 1,MINPP1,"HDAC2, FOS, GATA1, eGFP-HDAC8, CTCF, SMARCB1, PHF8, BACH1, KDM5B, CBX3, CREB1, TBP, ELF1, POLR2A, MXI1, BHLHE40, EZH2, CTBP2, CTCFL, POLR2AphosphoS2, RAD21, EP300, CHD1, MYC",24
