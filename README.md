@@ -55,7 +55,7 @@ The dashboard retrieves gene information from KEGG and cross-references transcri
 ### Output
 
 - **Progress log** displaying analysis steps and any errors encountered.
-- **Interactive bar plot** showing interacting transcription factors for each gene in the pathway
+- **Interactive bar plot** showing count of interacting transcription factors for each gene in the pathway (Example shown in ```sample_output.png```.)
 - **Table** displaying detailed results, including gene names, symbols, interacting transcription factors, and their counts.
 - **CSV file** saved in the current directory: ```{pathway_id}_genes_with_interacting_TFs.csv``` (Please find an example ```.csv``` file on this repo called ```hsa00010_genes_with_interacting_TFs.csv```)
 
