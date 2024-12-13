@@ -44,7 +44,7 @@ The dashboard retrieves gene information from KEGG and cross-references transcri
     ```bash
     panel serve epigenetic_pipeline.py
     ```
-2. Open a web browser and navigate to web browser in the output. Example url - http://localhost:5006/epigenetic_pipeline
+2. Open a web browser and navigate to a web browser in the output. Example URL - http://localhost:5006/epigenetic_pipeline
 3. Enter a valid human KEGG Pathway ID (e.g., "hsa00010" for Glycolysis) in the input field.
 4. Click the ```Run Analysis``` button to start the analysis.
 
@@ -57,7 +57,7 @@ The dashboard retrieves gene information from KEGG and cross-references transcri
 - **Progress log** displaying analysis steps and any errors encountered.
 - **Interactive bar plot** showing interacting transcription factors for each gene in the pathway
 - **Table** displaying detailed results, including gene names, symbols, interacting transcription factors, and their counts.
-- **CSV file** saved in the current directory: ```{pathway_id}_genes_with_interacting_TFs.csv```
+- **CSV file** saved in the current directory: ```{pathway_id}_genes_with_interacting_TFs.csv``` (Please find an example ```.csv``` file on this repo called ```hsa00010_genes_with_interacting_TFs.csv```)
 
 ## Troubleshooting
 
